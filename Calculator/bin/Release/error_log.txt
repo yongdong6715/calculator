@@ -1,0 +1,48 @@
+﻿Date: 8/2/2016 12:00:00 AM
+Local Time: 10:28:29
+Details: 
+Unable to connect to any of the specified MySQL hosts.; MySql.Data;    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Calculator.Utilities.MySQLDatabaseAccess..ctor(String serverAddress, String username, String password, String database) in c:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\Utilities\MySQLDatabaseAccess.cs:line 35
+Date: 8/2/2016 12:00:00 AM
+Local Time: 10:28:29
+Details: 
+Unable to connect to any of the specified MySQL hosts.; MySql.Data;    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Calculator.Utilities.MySQLDatabaseAccess..ctor(String serverAddress, String username, String password, String database) in c:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\Utilities\MySQLDatabaseAccess.cs:line 35
+Date: 8/2/2016 12:00:00 AM
+Local Time: 10:28:30
+Details: 
+Unable to connect to any of the specified MySQL hosts.; MySql.Data;    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Calculator.Utilities.MySQLDatabaseAccess..ctor(String serverAddress, String username, String password, String database) in c:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\Utilities\MySQLDatabaseAccess.cs:line 35
+Date: 8/2/2016 12:00:00 AM
+Local Time: 10:28:30
+Details: 
+Unable to connect to any of the specified MySQL hosts.; MySql.Data;    at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.CreateNewPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at Calculator.Utilities.MySQLDatabaseAccess..ctor(String serverAddress, String username, String password, String database) in c:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\Utilities\MySQLDatabaseAccess.cs:line 35

@@ -1,0 +1,8 @@
+C:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Release\Calculator.Form1.resources
+C:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\yondon\Documents\Visual Studio 2013\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
